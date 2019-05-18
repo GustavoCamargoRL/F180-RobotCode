@@ -1,0 +1,10 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class Radio
+Radio		KEYWORD1
+
+# Keyword for class functions
+send		KEYWORD2
+setup		KEYWORD2
+receive		KEYWORD2
+

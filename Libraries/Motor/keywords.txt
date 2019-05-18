@@ -1,0 +1,10 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class Motor
+Motor		KEYWORD1
+
+# Keyword for class functions
+andar		KEYWORD2
+andarPID	KEYWORD2
+configurar	KEYWORD2
+PWMtoSpeed	KEYWORD2

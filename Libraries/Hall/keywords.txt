@@ -1,0 +1,9 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class Hall
+Hall			KEYWORD1
+
+# Keyword for class functions
+returnHall		KEYWORD2
+
+

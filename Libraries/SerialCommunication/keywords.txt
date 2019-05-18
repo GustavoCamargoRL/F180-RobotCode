@@ -1,0 +1,10 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class SerialCommunication
+SerialCommunication	KEYWORD1
+
+# Keyword for class functions
+read			KEYWORD2
+begin			KEYWORD2
+ajustArray		KEYWORD2
+

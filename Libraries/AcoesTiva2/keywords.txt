@@ -1,0 +1,15 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class AcoesTiva
+AcoesTiva2		KEYWORD1
+
+# Keyword for class functions
+possedeBola		    KEYWORD2
+enviarComando		KEYWORD2
+configurarTiva		KEYWORD2
+driblar			    KEYWORD2
+nivelBat            KEYWORD2
+horus               KEYWORD2
+carregarCapacitor   KEYWORD2
+chutar              KEYWORD2
+

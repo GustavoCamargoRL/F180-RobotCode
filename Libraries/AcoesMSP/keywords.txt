@@ -1,0 +1,11 @@
+# Arduino IDE Keywords for Syntax Coloring
+
+# Keyword for class AcoesMSP
+AcoesMSP		KEYWORD1
+
+# Keyword for class functions
+carregarCapacitor	KEYWORD2
+receberComando		KEYWORD2
+configurarMSP		KEYWORD2
+chutar			KEYWORD2
+
